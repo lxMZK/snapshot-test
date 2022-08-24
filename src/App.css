@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  align-items: center;
+}
+
+small {
+  color: rgb(200, 200, 200);
+}
+
+.link {
+  text-decoration: none;
+}
